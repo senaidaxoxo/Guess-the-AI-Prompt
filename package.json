@@ -1,0 +1,28 @@
+{
+  "name": "cl-project-2",
+  "version": "1.0.0",
+  "description": "This is a game where players guess the AI prompt when shown an AI-generated image",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/senaidaxoxo/Connections-Lab"
+  },
+  "keywords": [
+    "ai",
+    "prompt",
+    "guess",
+    "game"
+  ],
+  "author": "Senaida Ng, Xiao Liang",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.71.0",
+    "ws": "^8.18.0"
+  }
+}
